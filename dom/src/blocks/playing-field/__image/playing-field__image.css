@@ -1,0 +1,8 @@
+.playing-field__image {
+    background-image: url(../../../images/goblin.png);
+    background-repeat: no-repeat;
+    background-position: center;
+
+    max-height: 120px;
+    max-width: 120px;
+}
