@@ -1,0 +1,15 @@
+.playing-field__box {
+    min-width: 220px;
+    min-height: 220px;
+
+    margin: 15px;
+
+    box-sizing: border-box;
+
+    background-color: rgb(75, 179, 80);
+    border-radius: 50%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
