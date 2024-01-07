@@ -1,2 +1,2 @@
-export const counterText = document.querySelectorAll('.counter__text');
-export const object = document.querySelector('.playing - field__image');
+export const arrayCounter = document.querySelectorAll('.counter__span');
+export const arrayBox = document.querySelectorAll('.playing-field__box');

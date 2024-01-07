@@ -1,3 +1,5 @@
+import { eventListener } from './counter';
+
 (() => {
     const playingFieldBox = document.querySelectorAll('.playing-field__box');
 
@@ -17,6 +19,7 @@
             item.classList.add('playing-field__image');
         }
     }, 1000);
+
 })();
 
-import { eventListener } from './counter';
+eventListener();
