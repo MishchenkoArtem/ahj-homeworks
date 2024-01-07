@@ -18,3 +18,5 @@
         }
     }, 1000);
 })();
+
+import { eventListener } from './counter';

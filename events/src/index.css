@@ -1,4 +1,11 @@
+html {
+    font-size: 10px;
+}
+
 @import url(./blocks/body/body.css);
 @import url(./blocks/playing-field/playing-field.css);
 @import url(./blocks/playing-field/__box/playing-field__box.css);
 @import url(./blocks/playing-field/__image/playing-field__image.css);
+@import url(./blocks/counter/counter.css);
+@import url(./blocks/counter/__text/counter__text.css);
+@import url(./blocks/counter/__span/counter__span.css);

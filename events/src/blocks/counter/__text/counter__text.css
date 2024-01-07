@@ -1,0 +1,12 @@
+.counter__text {
+    display: flex;
+
+    font-size: 2rem;
+
+    padding: 0 100px 10px 100px;
+    margin: 0;
+}
+
+.counter__text:last-child {
+    padding-bottom: 0;
+}
