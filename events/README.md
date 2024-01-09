@@ -1,5 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/u0dln708yca5smot?svg=true)](https://ci.appveyor.com/project/MishchenkoArtem/ahj-homeworks)
 
+[![Build status](https://ci.appveyor.com/api/projects/status/u0dln708yca5smot/branch/video?svg=true)](https://ci.appveyor.com/project/MishchenkoArtem/ahj-homeworks/branch/video)
+
 # Домашнее задание к занятию "3.Обработка событий"
 
 Правила сдачи задания:
