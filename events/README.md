@@ -1,4 +1,4 @@
-https://ci.appveyor.com/api/projects/status/u0dln708yca5smot?svg=true
+[![Build status](https://ci.appveyor.com/api/projects/status/u0dln708yca5smot?svg=true)](https://ci.appveyor.com/project/MishchenkoArtem/ahj-homeworks)
 
 # Домашнее задание к занятию "3.Обработка событий"
 
