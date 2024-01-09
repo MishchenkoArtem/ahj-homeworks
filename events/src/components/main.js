@@ -1,5 +1,6 @@
 import { eventListener } from './counter';
 
+// --- Хаотичное отображение изображения на игровом поле
 (() => {
     const playingFieldBox = document.querySelectorAll('.playing-field__box');
 
