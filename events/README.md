@@ -1,3 +1,5 @@
+https://ci.appveyor.com/api/projects/status/u0dln708yca5smot?svg=true
+
 # Домашнее задание к занятию "3.Обработка событий"
 
 Правила сдачи задания:
