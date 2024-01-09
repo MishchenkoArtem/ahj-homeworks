@@ -4,6 +4,7 @@ import { popup } from './constans';
 import { popupHeading } from './constans';
 import { popupButton } from './constans';
 
+// --- Изменения счетчиков и открытие попапа.
 export function eventListener() {
     arrayBox.forEach(item => {
         item.addEventListener('click', (event) => {
@@ -28,6 +29,7 @@ export function eventListener() {
     });
 }
 
+// --- Закрытие попапа, сброс счетчиков.
 popupButton.addEventListener('click', () => {
     popup.classList.remove('popup_opened');
     arrayCounter[0].textContent = 0;
